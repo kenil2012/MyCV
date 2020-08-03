@@ -1,0 +1,174 @@
+body
+{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40414E;
+}
+
+h1
+{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 562.5%;
+    color: #66BFBF;
+    line-height: 1.5;
+}
+
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #66BFBF;
+    font-weight: bold;
+}
+
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.top
+{
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 80px;
+}
+
+hr
+{
+    border-style: dotted none none;
+    border-width: 7px;
+    width: 60px;
+    color: #EAF6F6;
+    margin: 100px auto;
+
+}
+
+.middle
+{
+    margin: 50px 0;
+}
+
+.bottom
+{
+    margin:50px 0 0;
+    background-color: darkseagreen;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.cloud1
+{
+    position: absolute;
+    right: 300px;
+    top:50px;
+}
+
+.cloud2
+{
+    position: absolute;
+    left: 200px;
+    bottom: 300px;
+}
+
+.coding
+{
+    transform: rotate(30deg);
+    position: absolute;
+    top:178px;
+}
+
+.wing
+{
+    transform: rotate(30deg);
+    position: absolute;
+    right: 288px;
+    top:164px;
+}
+
+.mountain
+{
+    position: relative;
+    top:5px;
+}
+
+.profilepic
+{
+    border-radius: 50%;
+    margin-top: 30px;
+}
+
+
+.skill-row
+{
+    width:50%;
+    margin: 100px auto 100px;
+    text-align: left;
+    line-height: 2;
+}
+
+.profile
+{
+    width:40%;
+    margin: 0 auto 0;
+    line-height: 2;
+}
+
+.mywork
+{
+    text-decoration: none;
+    font-weight: bolder;
+    color: rgb(132, 132, 255);
+    color: #11999E;
+}
+
+
+.designer
+{
+    float: left;
+    margin-right: 30px;
+}
+
+.developer
+{
+    float: right;
+    margin-left: 30px;
+}
+
+.graphic
+{
+    float: left;
+    margin-right: 30px;
+}
+
+p
+{
+    font-weight: bold;
+    margin:0;
+}
+
+.btn
+{
+    text-decoration: none;
+    font-weight: 600;
+    color: white;
+    background: linear-gradient(to top, rgb(122, 203, 214), rgb(117, 210, 226));
+    padding: 10px 30px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+
+.linkaccount
+{
+    margin: 0 5px;
+}
+
+.copyright
+{
+    margin-top: 2em;
+    color: rgb(85, 85, 85);
+}
